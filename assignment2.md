@@ -60,33 +60,22 @@ plot(horseshoe)
 
 ![](assignment2_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
-## R Markdown
+Current lab Dr.Hunter-advisor Hadfield Lab GA
 
-This is an R Markdown document. Markdown is a simple formatting syntax
-for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see <http://rmarkdown.rstudio.com>.
+Project focus Temperature tolerance of native vs. invasive oyster larvae
+in Pearl Harbor
 
-When you click the **Knit** button a document will be generated that
-includes both content as well as the output of any embedded R code
-chunks within the document. You can embed an R code chunk like this:
+Why you chose this course It sounds really interesting and I want to
+learn R. Also, most of my research experience has focused in on the
+small scale coral reef structure- looking at how and why invertebrate
+larvae settle when/where they do, so I think it will be really cool to
+look at structure/fuction on other levels.
 
-``` r
-summary(cars)
-```
+What do you want to learn about the most in this course Similar to my
+previous answer, I think it will be really interesting to learn about
+the coral reef habitat from other perspectives. I am also excited to
+learn about new technologies for learning about the reefs.
 
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
+Your R experience none
 
-## Including Plots
-
-You can also embed plots, for example:
-
-![](assignment2_files/figure-gfm/pressure-1.png)<!-- -->
-
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+Fun fact One time I got stranded at a Yodeling Festival in Switzerland.
